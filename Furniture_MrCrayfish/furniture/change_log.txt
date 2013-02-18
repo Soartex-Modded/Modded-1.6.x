@@ -1,0 +1,23 @@
+v0.6:
+- fixed gui textures
+
+v0.5:
+- added some (unused?) textures for the furniture mod
+
+v0.4:
+- added light bulb item logos
+
+v0.3:
+- added coldpack item logo
+- added 5 different wool carpet item logos
+
+v0.2:
+- added gui textures for fridge and cabinet
+
+v0.1:
+- added blind textures and item logo
+- added wood furniture textures and item logos
+- added fridge texture and item logo
+- added wool couch textures and item logos
+- added 5 different wool couch item logos
+- added table lamp texture and item logo
