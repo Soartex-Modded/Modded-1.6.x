@@ -1,4 +1,2 @@
-## Soartex File Server Version Control
-* * *
-See [our website](http://soartex.net/)
-
+# Version control for Soartex textures!
+### By Goldbattle and Shoeboxam
