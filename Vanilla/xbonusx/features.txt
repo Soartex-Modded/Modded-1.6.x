@@ -1,0 +1,28 @@
+Mod Features (For MCPatcher)
+
+Blinking Mobs:
+- Villagers
+- Cow
+- Squid
+- Wolves
+- Cats
+- Chicken
+
+Glowing Glowstone
+Glowing Redstone Lamps
+Glowing Jack 'o' Lanterns
+
+
+Connected Semi-Transaprent Glass (Tinted Windows)
+Connected Bookshelves
+Randomized Stone Bricks (Cracked, Mossy)
+Randomized Vines
+Randomized Sugar Canes
+Randomized Ferns
+Randomized Bricks
+Randomized Marked Sandstone
+Randomized Netherbricks
+Randomized Mushrooms
+Randomized Mushroom Blocks
+Randomized Lillies
+Randomized Cacti
