@@ -1,4 +1,9 @@
+# Working files
+
 *.psd
 *.xcf
+
+# OS crap
+
 *.DS_Store
-Thumbs.db
+*.Thumbs.db
