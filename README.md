@@ -1,5 +1,5 @@
-# Version control for Soartex textures!
-### By everyone at Soartex Fanver
+# Version control and automation for Soartex textures!
+### By everyone at the Soartex Fanver community forums!
 
 ### How to submit your own textures to Soartex Fanver:
 _This requrires some moderate git/Github knowledge; if you need any help, feel free to contact us._
