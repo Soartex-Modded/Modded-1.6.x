@@ -1,2 +1,0 @@
-trigger_machine_active
-trigger_machine_inactive

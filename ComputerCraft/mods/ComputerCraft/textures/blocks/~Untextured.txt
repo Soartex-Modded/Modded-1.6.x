@@ -1,7 +1,0 @@
-cableCore
-cableSide
-turtle
-wiredModemFace
-wiredModemFaceOn
-wiredModemFacePeripheral
-wiredModemFacePeripheralOn

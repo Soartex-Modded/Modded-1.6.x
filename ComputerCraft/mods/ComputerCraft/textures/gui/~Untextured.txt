@@ -1,5 +1,0 @@
-printer
-printout
-termgrey
-terminal
-termwhite
