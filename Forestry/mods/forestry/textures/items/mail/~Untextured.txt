@@ -1,0 +1,12 @@
+letter.0.emptied
+letter.0.fresh
+letter.0.opened
+letter.0.stamped
+letter.1.emptied
+letter.1.fresh
+letter.1.opened
+letter.1.stamped
+letter.2.emptied
+letter.2.fresh
+letter.2.opened
+letter.2.stamped
