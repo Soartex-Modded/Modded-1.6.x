@@ -1,0 +1,16 @@
+AdvancedJetPack
+itemAdvancedLappack
+itemAdvancedNanoChestPlate
+itemCoolingCore
+itemEngineBoost
+itemGraviChestPlate
+itemGraviEngine
+itemGraviToolHoe
+itemGraviToolScrewdriver
+itemGraviToolTreeTap
+itemGraviToolWrench
+itemMagnetron
+itemSuperconductor
+itemSuperconductorCover
+itemVajra
+itemVajraCore
