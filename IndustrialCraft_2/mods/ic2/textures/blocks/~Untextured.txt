@@ -1,0 +1,3 @@
+tile.blockBarrel.tap
+tile.blockFenceIron
+tile.blockRubLeaves
