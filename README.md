@@ -2,6 +2,10 @@
 ### By everyone at the Soartex Fanver community forums!
 
 ### How to submit your own textures to Soartex Fanver:
+-Post them on http://www.soartex.net/forums/all-mods.27/
+
+Or directly:
+
 _This requirers some moderate git/Github knowledge; if you need any help, feel free to contact us._
 
  * Fork this repo to your account.
