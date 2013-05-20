@@ -6,7 +6,7 @@
 
 Or directly:
 
-_This requirers some moderate git/Github knowledge; if you need any help, feel free to contact us._
+_This requires moderate git/Github knowledge; if you need any help, feel free to contact us._
 
  * Fork this repo to your account.
  * Commit all of your textures to your forked repo, in the master branch. Prefferably use as few commits as possible; if you experienced in git, squash all of your commits into one.
