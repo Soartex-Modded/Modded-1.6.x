@@ -1,4 +1,0 @@
-AdvSolarHelmet
-HybridSolarHelmet
-SunnariumPart
-UltimateSolarHelmet
