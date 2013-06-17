@@ -20,5 +20,13 @@ item.Sonictron
 item.Steel_Jack_Hammer
 item.Teslastaff
 item.Ultimate_Cheat_Armor
+item.GT_Hammer_Rubber
+item.GT_Wrench_Advanced
+item.GT_Wrench_Bronze
+item.GT_Wrench_Electric
+item.GT_Wrench_Iron
+item.GT_Wrench_Steel
+item.GT_Wrench_TungstenSteel
+
 troll
 void

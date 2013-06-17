@@ -27,6 +27,7 @@ NEIWiremill
 Printer
 Recycler
 RedstoneCircuitBlock
+Wiremill
+
 troll
 void
-Wiremill
