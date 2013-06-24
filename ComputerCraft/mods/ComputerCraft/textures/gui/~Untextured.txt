@@ -1,0 +1,5 @@
+printer.png
+printout.png
+termgrey.png
+terminal.png
+termwhite.png
