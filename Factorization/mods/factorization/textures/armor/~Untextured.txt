@@ -1,0 +1,2 @@
+exo_armor_1.png
+exo_armor_2.png

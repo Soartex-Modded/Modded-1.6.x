@@ -1,0 +1,12 @@
+boiler_side.png
+boiler_top.png
+leyden_glass.png
+leyden_glass_side.png
+leyden_knob.png
+leyden_metal.png
+leyden_rim.png
+mirror_side.png
+motor_texture.png
+turbine_bottom.png
+turbine_side.png
+turbine_top.png
