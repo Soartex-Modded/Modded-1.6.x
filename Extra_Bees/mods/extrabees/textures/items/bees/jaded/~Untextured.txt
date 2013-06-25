@@ -1,0 +1,12 @@
+total 80
+-rw-r--r--@ 1 jman  staff  419 Jun 23 13:01 body1.png
+-rw-r--r--@ 1 jman  staff  308 Jun 23 13:01 drone.body2.png
+-rw-r--r--@ 1 jman  staff  366 Jun 23 13:01 drone.outline.png
+-rw-r--r--@ 1 jman  staff  412 Jun 23 13:01 larvae.body.png
+-rw-r--r--@ 1 jman  staff  425 Jun 23 13:01 larvae.body2.png
+-rw-r--r--@ 1 jman  staff  403 Jun 23 13:01 larvae.outline.png
+-rw-r--r--@ 1 jman  staff  600 Jun 23 13:01 princess.body2.png
+-rw-r--r--@ 1 jman  staff  366 Jun 23 13:01 princess.outline.png
+-rw-r--r--@ 1 jman  staff  605 Jun 23 13:01 queen.body2.png
+-rw-r--r--@ 1 jman  staff  366 Jun 23 13:01 queen.outline.png
+-rw-r--r--  1 jman  staff    0 Jun 24 19:06 ~Untextured.txt
