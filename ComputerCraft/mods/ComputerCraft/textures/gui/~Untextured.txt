@@ -1,5 +1,6 @@
-printer.png
-printout.png
+===========
+The files below are only a single color file so there seems no reason to update them
+===========
 termgrey.png
 terminal.png
 termwhite.png
