@@ -1,8 +1,0 @@
-p_air.png
-p_chaos.png
-p_earth.png
-p_fire.png
-p_negative.png
-p_order.png
-p_positive.png
-p_water.png
