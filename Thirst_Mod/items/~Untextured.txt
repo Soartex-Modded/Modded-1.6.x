@@ -1,0 +1,9 @@
+canteen.png
+clean_bucket.png
+cloth.png
+coal_filter.png
+coins.png
+cup.png
+full_cloth.png
+fWater.png
+water.png
