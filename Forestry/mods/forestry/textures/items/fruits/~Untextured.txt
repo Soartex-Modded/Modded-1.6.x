@@ -1,7 +1,0 @@
-cherry.png
-chestnut.png
-dates.png
-lemon.png
-papaya.png
-plum.png
-walnut.png

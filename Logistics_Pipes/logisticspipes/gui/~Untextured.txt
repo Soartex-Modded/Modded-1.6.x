@@ -1,4 +1,0 @@
-checkbox-on-mouse.png
-checkbox-on.png
-checkbox-out-mouse.png
-checkbox-out.png

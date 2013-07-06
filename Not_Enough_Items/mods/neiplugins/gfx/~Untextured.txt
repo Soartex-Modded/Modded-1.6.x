@@ -1,3 +1,0 @@
-LiquidDictionaryList.png
-tc_cast.png
-tc_smeltery.png

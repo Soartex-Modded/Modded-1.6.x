@@ -1,6 +1,0 @@
-gui_craft_guide.png
-gui_locomotive_steam.png
-gui_routing.png
-gui_track_routing.png
-routing_table.png
-ticket_gold.png

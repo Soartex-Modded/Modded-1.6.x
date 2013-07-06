@@ -1,5 +1,0 @@
-acid.png
-dna.png
-liquidNitrogen.png
-molten.png
-poison.png

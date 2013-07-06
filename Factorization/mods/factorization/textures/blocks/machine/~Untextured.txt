@@ -1,4 +1,0 @@
-grinder_bottom.png
-grinder_bottom_top_edge.png
-grinder_side.png
-grinder_top.png

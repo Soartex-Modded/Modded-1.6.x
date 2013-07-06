@@ -1,8 +1,0 @@
-armor0.png
-armor1.png
-armor2.png
-armor3.png
-buoyant_barrel.png
-cobbledrive.png
-mountedpiston.png
-wall_jump_boots.png

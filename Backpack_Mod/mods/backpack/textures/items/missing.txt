@@ -1,2 +1,0 @@
-leatherBound.png
-leatherTanned.png

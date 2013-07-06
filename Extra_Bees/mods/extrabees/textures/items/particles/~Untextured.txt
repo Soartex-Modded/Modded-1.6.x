@@ -1,9 +1,0 @@
-blindness.png
-bonemeal.png
-food.png
-gravity.png
-lightning.png
-meteor.png
-radioactive.png
-water.png
-wither.png

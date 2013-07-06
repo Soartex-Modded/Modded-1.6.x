@@ -1,5 +1,0 @@
-angular_saw.png
-bag_of_holding.png
-charge_meter.png
-matrix_programmer.png
-wrath_igniter.png

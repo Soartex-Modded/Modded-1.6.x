@@ -1,7 +1,0 @@
-chase.png
-monocle.png
-plate.png
-readingglasses.png
-tape.png
-tapemeasure.png
-tintedglasses.png

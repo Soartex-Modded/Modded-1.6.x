@@ -1,3 +1,0 @@
-apiarist_armor_1.png
-apiarist_armor_2.png
-naturalist_armor_1.png

@@ -1,3 +1,0 @@
-processes.png
-processes2.png
-punnett.png

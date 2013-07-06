@@ -1,5 +1,0 @@
-rocket_engine_bottom_hole.png
-rocket_engine_invalid.png
-rocket_engine_nozzle.png
-rocket_engine_top.png
-rocket_engine_valid.png

@@ -1,2 +1,0 @@
-"Creosote-Oil.png" Should be named "Creosote Oil.png"
-filenames with spaces cause issues on Github and other things.

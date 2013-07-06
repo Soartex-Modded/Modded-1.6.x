@@ -1,2 +1,0 @@
-TEMPLATE.png
-router_TEXTURE.png
