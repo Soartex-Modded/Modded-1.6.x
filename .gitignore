@@ -7,3 +7,5 @@
 
 *.DS_Store
 *.Thumbs.db
+#OS Crap from Mac fat32
+._*
