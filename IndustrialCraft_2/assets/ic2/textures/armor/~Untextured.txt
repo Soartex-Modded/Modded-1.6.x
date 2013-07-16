@@ -1,0 +1,12 @@
+alloy_1
+batpack_1
+bronze_1
+bronze_2
+hazmat_1
+hazmat_2
+jetpack_1
+lappack_1
+nano_1
+nano_2
+nightvision_1
+solar_1
