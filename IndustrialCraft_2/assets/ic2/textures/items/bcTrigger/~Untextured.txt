@@ -1,0 +1,8 @@
+- EnergyFlowing
+- EnergyNotFlowing
+- FullHeat
+- HasFuel
+- HasScrap
+- NoFuel
+- NoFullHeat
+- NoScrap
