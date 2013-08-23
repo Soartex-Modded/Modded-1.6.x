@@ -12,7 +12,7 @@ itemArmorQuantumChestplate
 itemArmorQuantumLegs
 itemCoolant
 itemFluidCell
-itemFluidUUMater
+itemFuelRod
 itemLithium
 itemMOX
 itemMOXPellet
