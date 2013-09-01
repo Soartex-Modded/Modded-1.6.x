@@ -1,0 +1,14 @@
+CannotWork
+CanWork
+IsNotWorking
+IsWorking
+NoBlankTemplate
+NoTemplate
+PowerFull
+PowerHigh
+PowerLow
+PowerMedium
+PowerNone
+SerumEmpty
+SerumFull
+SerumPure

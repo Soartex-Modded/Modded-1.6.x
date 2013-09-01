@@ -1,0 +1,6 @@
+average
+large
+larger
+pear
+small
+tiny

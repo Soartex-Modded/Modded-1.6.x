@@ -1,0 +1,4 @@
+discoveredMoth
+discoveredTree
+undiscoveredMoth
+undiscoveredTree

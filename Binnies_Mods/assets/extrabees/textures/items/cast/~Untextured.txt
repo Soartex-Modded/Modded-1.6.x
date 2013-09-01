@@ -1,0 +1,10 @@
+axe
+block
+boots
+chestplate
+gear
+helmet
+hoe
+legging
+pickaxe
+shovel

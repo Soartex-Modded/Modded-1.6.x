@@ -1,0 +1,9 @@
+CannotWork
+CanWork
+IsNotWorking
+IsWorking
+PowerFull
+PowerHigh
+PowerLow
+PowerMedium
+PowerNone
