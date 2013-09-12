@@ -1,0 +1,82 @@
+AdamantineBoots.png
+AdamantineChest.png
+AdamantineHelmet.png
+AdamantineLegs.png
+Astral SilverAxe.png
+Astral SilverBoots.png
+Astral SilverChest.png
+Astral SilverDust.png
+Astral SilverHelmet.png
+Astral SilverHoe.png
+Astral SilverIngot.png
+Astral SilverLegs.png
+Astral SilverPick.png
+Astral SilverShovel.png
+Astral SilverSword.png
+AtlarusBoots.png
+AtlarusChest.png
+AtlarusHelmet.png
+AtlarusLegs.png
+Black SteelAxe.png
+Black SteelBoots.png
+Black SteelChest.png
+Black SteelDust.png
+Black SteelHelmet.png
+Black SteelHoe.png
+Black SteelIngot.png
+Black SteelLegs.png
+Black SteelPick.png
+Black SteelShovel.png
+Black SteelSword.png
+CarmotBoots.png
+CarmotChest.png
+CarmotHelmet.png
+CarmotLegs.png
+CelenegilBoots.png
+CelenegilChest.png
+CelenegilHelmet.png
+CelenegilIngot.png
+CelenegilLegs.png
+Deep IronAxe.png
+Deep IronBoots.png
+Deep IronChest.png
+Deep IronDust.png
+Deep IronHelmet.png
+Deep IronHoe.png
+Deep IronIngot.png
+Deep IronLegs.png
+Deep IronPick.png
+Deep IronShovel.png
+Deep IronSword.png
+HaderothBoots.png
+HaderothChest.png
+HaderothHelmet.png
+HaderothIngot.png
+HaderothLegs.png
+MithrilBoots.png
+MithrilChest.png
+MithrilHelmet.png
+MithrilLegs.png
+OrichalcumBoots.png
+OrichalcumChest.png
+OrichalcumHelmet.png
+OrichalcumLegs.png
+OureclaseBoots.png
+OureclaseChest.png
+OureclaseHelmet.png
+OureclaseLegs.png
+PrometheumBoots.png
+PrometheumChest.png
+PrometheumHelmet.png
+PrometheumLegs.png
+QuicksilverBoots.png
+QuicksilverChest.png
+QuicksilverDust.png
+QuicksilverHelmet.png
+QuicksilverIngot.png
+QuicksilverLegs.png
+TartariteBoots.png
+TartariteChest.png
+TartariteDust.png
+TartariteHelmet.png
+TartariteLegs.png

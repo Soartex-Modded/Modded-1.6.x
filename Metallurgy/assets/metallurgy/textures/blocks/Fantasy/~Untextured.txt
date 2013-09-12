@@ -1,0 +1,8 @@
+Astral SilverBlock.png
+Astral SilverBrick.png
+Astral SilverOre.png
+Black SteelBlock.png
+Black SteelBrick.png
+Deep IronBlock.png
+Deep IronBrick.png
+Deep IronOre.png
