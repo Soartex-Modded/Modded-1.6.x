@@ -1,0 +1,31 @@
+AngmallenBoots.png
+AngmallenChest.png
+AngmallenHelmet.png
+AngmallenLegs.png
+BronzeBoots.png
+BronzeChest.png
+BronzeHelmet.png
+BronzeLegs.png
+CopperBoots.png
+CopperChest.png
+CopperHelmet.png
+CopperLegs.png
+Damascus SteelAxe.png
+Damascus SteelBoots.png
+Damascus SteelChest.png
+Damascus SteelDust.png
+Damascus SteelHelmet.png
+Damascus SteelHoe.png
+Damascus SteelIngot.png
+Damascus SteelLegs.png
+Damascus SteelPick.png
+Damascus SteelShovel.png
+Damascus SteelSword.png
+HepatizonBoots.png
+HepatizonChest.png
+HepatizonHelmet.png
+HepatizonLegs.png
+SteelBoots.png
+SteelChest.png
+SteelHelmet.png
+SteelLegs.png
