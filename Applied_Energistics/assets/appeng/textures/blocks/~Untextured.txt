@@ -1,8 +1,0 @@
-BlockMEQlink
-BlockQLink
-BlockQRingCorner
-BlockQRingCornerLight
-BlockQRingEdge
-BlockQRingEdgeLight
-MECraftingMon_Clear
-MECTerm_Clear
