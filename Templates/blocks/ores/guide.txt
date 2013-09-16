@@ -1,0 +1,39 @@
+Studs layers can be colored and manipulated any way to make ores that appear differently.
+
+Some ores have glow layers, which can be turned on and colored.
+
+The "Cracks" layer adds cracks to whatever base texture is below it.
+
+Switch the base texture to anything to change the material the ore is embedded in. (netherrack, end stone, gravel, even logs)
+
+Available templates:
+-Vanilla (Template for the primary ore)
+-Gem
+-Lump
+-Infused
+-Hamaczi
+-Shards
+-Quartz
+
+
+
+
+
+
+
+
+
+
+
+How-To
+I made it with difference layers. If you take stone and place it over lapis with the mode set to difference, you'll get a black background with the cracks and ore in white. Then to remove the ore from the difference layer, crop down to the lapis texture and color select all the ore. Then switch to the difference layer with your selection and color it black.
+
+Now you have a layer that is only cracks. Make a new layer beneath the cracks layer that is just netherrack. Set the difference layer's mode to addition, which will then add the cracks to the netherrack. Important! Addition!
+
+To add the ore, reselect the lapis and copy it to a new layer over any of the other ores. Use the lapis ore layer to select any of the other ores, then copy and place those ores over the netherrack with the cracks layer you made earlier. Recoloring is easy from there.
+
+To use the glow from the redstone, gold or diamond ores, use the same concept with difference layers. Copy the lapis over to a new layer, set the layer to difference and move it over the diamond.
+
+Having the details of the ores separated from the base means you can place the exact ore texture onto anything. I placed it on netherrack and noticed the center was oversaturated. I fixed that by making a radial black gradient on a new layer set to saturation mode. Just as expected, it lowered saturation in the center of the netherrack based on how high I set the opacity of the layer. Then I placed the ores themselves on top. Unoriginal Quartz ore, baby.
+
+Hope this helps!
