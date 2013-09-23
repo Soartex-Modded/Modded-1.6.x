@@ -1,8 +1,4 @@
 itemArmorAlloyChestplate
-itemArmorBronzeBoots
-itemArmorBronzeBoots
-itemArmorBronzeChestplate
-itemArmorBronzeHelmet
 itemArmorHazmatLeggings
 itemArmorNanoBoots
 itemArmorNanoChestplate

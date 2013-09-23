@@ -1,7 +1,5 @@
 alloy_1
 batpack_1
-bronze_1
-bronze_2
 hazmat_1
 hazmat_2
 jetpack_1
