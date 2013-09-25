@@ -9,7 +9,6 @@ itemArmorQuantumLegs
 itemCoolant
 itemFluidCell
 itemFuelRod
-itemLithium
 itemMOX
 itemMOXPellet
 itemNightvisionGoggles
