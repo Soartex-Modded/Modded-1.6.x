@@ -1,0 +1,7 @@
+carpenters_axe
+steel_axe
+steel_hoe
+steel_pickaxe
+steel_spade
+steel_sword
+stone_mallet
