@@ -8,9 +8,8 @@ itemArmorQuantumBoots
 itemArmorQuantumChestplate
 itemArmorQuantumLegs
 itemArmorRubBoots
-itemCoolant
 itemDebug
-itemFuelrod
+itemFuelRod
 itemMOX
 itemMOXPellet
 itemNightvisionGoggles
@@ -22,6 +21,7 @@ itemSolarHelmet
 itemStaticBoots
 itemToolForgeHammer
 itemTritiumCell
+itemUran
 itemUran235small
 itemUran238Small
 itemUranPellet

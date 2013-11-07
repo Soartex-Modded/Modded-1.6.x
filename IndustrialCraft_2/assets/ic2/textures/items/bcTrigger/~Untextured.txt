@@ -1,4 +1,0 @@
-HasFuel
-HasScrap
-NoFuel
-NoScrap
