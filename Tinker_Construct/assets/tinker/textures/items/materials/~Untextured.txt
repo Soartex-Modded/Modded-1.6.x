@@ -1,1 +1,2 @@
+-cast_fletching.png
 -pattern_fletching.png
