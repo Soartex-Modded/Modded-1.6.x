@@ -20,10 +20,6 @@ greenscreen.png
 peaceful_table_bottom.png
 peaceful_table_side.png
 peaceful_table_top.png
-pipes_crossover.png
-pipes_energy.png
-pipes_supply.png
-sandedGlass.png
 timer.png
 trashcan.png
 trashcan_bottom.png
