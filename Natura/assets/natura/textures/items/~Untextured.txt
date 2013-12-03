@@ -2,14 +2,4 @@ armor_imp_body.png
 armor_imp_boots.png
 armor_imp_helmet.png
 armor_imp_leggings.png
-berry_black.png
-berry_blight.png
-berry_blue.png
-berry_dusk.png
-berry_geo.png
-berry_rasp.png
-berry_sky.png
-berry_sting.png
 cotton_plant.png
-leather_imp.png
-saguaro_fruit_item.png
