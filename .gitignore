@@ -22,3 +22,7 @@ Icon
 # Layered Documents
 *.psd
 *.xcf
+
+# Artifacts left by other applications
+# SyncToy
+SyncToy*
