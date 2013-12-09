@@ -1,4 +1,2 @@
 goggles.png
 overalls.png
-steel_1.png
-steel_2.png
