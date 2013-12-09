@@ -1,4 +1,3 @@
-cherry.png
 chestnut.png
 dates.png
 lemon.png
