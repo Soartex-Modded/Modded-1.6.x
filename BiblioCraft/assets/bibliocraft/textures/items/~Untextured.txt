@@ -1,13 +1,2 @@
-cboard
-chase
-checklist
-clipboard
-clipboardGUI
-lock
-monocle
-plate
-readingglasses
-screwgun
-tape
-tapemeasure
-tintedglasses
+maptool.png
+screewgun.png
