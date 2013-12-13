@@ -4,4 +4,3 @@ bookmodify
 booksmeltery
 description
 extractor
-minichest
