@@ -1,2 +1,0 @@
--cardboardBox.png
--cardboardBox_side.png
