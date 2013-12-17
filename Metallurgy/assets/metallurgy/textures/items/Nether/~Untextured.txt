@@ -26,28 +26,14 @@ SanguiniteBoots.png
 SanguiniteChest.png
 SanguiniteHelmet.png
 SanguiniteLegs.png
-Shadow IronAxe.png
 Shadow IronBoots.png
 Shadow IronChest.png
-Shadow IronDust.png
 Shadow IronHelmet.png
-Shadow IronHoe.png
-Shadow IronIngot.png
 Shadow IronLegs.png
-Shadow IronPick.png
-Shadow IronShovel.png
-Shadow IronSword.png
-Shadow SteelAxe.png
 Shadow SteelBoots.png
 Shadow SteelChest.png
-Shadow SteelDust.png
 Shadow SteelHelmet.png
-Shadow SteelHoe.png
-Shadow SteelIngot.png
 Shadow SteelLegs.png
-Shadow SteelPick.png
-Shadow SteelShovel.png
-Shadow SteelSword.png
 VulcaniteBoots.png
 VulcaniteChest.png
 VulcaniteHelmet.png

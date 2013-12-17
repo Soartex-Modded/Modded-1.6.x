@@ -10,17 +10,10 @@ CopperBoots.png
 CopperChest.png
 CopperHelmet.png
 CopperLegs.png
-Damascus SteelAxe.png
 Damascus SteelBoots.png
 Damascus SteelChest.png
-Damascus SteelDust.png
 Damascus SteelHelmet.png
-Damascus SteelHoe.png
-Damascus SteelIngot.png
 Damascus SteelLegs.png
-Damascus SteelPick.png
-Damascus SteelShovel.png
-Damascus SteelSword.png
 HepatizonBoots.png
 HepatizonChest.png
 HepatizonHelmet.png
