@@ -1,0 +1,16 @@
+beheading_longsword_effect.png
+blaze_longsword_effect.png
+emerald_longsword_effect.png
+diamond_longsword_effect.png
+flux_longsword_effect.png
+ice_longsword_effect.png
+lava_longsword_effect.png
+magicfabric_longsword_effect.png
+necrotic_longsword_effect.png
+piston_longsword_effect.png
+quartz_longsword_effect.png
+redstone_longsword_effect.png
+reinforced_longsword_effect.png
+silk_longsword_effect.png
+smite_longsword_effect.png
+spider_longsword_effect.png

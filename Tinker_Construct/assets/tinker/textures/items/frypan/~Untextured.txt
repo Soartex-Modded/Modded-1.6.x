@@ -1,0 +1,16 @@
+beheading_frypan_effect.png
+emerald_frypan_effect.png
+diamond_frypan_effect.png
+flux_frypan_effect.png
+ice_frypan_effect.png
+lapis_frypan_effect.png
+lava_frypan_effect.png
+magicfabric_frypan_effect.png
+necrotic_frypan_effect.png
+piston_frypan_effect.png
+quartz_frypan_effect.png
+redstone_frypan_effect.png
+reinforced_frypan_effect.png
+silk_frypan_effect.png
+smite_frypan_effect.png
+spider_frypan_effect.png

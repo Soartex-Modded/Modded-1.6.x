@@ -1,0 +1,16 @@
+beheading_sword_effect.png
+blaze_sword_effect.png
+emerald_sword_effect.png
+diamond_sword_effect.png
+flux_sword_effect.png
+ice_sword_effect.png
+lava_sword_effect.png
+magicfabric_sword_effect.png
+necrotic_sword_effect.png
+piston_sword_effect.png
+quartz_sword_effect.png
+redstone_sword_effect.png
+reinforced_sword_effect.png
+silk_sword_effect.png
+smite_sword_effect.png
+spider_sword_effect.png
