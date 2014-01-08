@@ -1,5 +1,0 @@
-brasschest.png
-electrumchest.png
-goldchest.png
-platinumchest.png
-silverchest.png
