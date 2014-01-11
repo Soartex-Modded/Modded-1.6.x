@@ -1,6 +1,9 @@
 # Version control and automation for Soartex Modded textures!
 ### Created by everyone for everyone!
 
+[Forums](http://soartex.net/community/)
+[Downloads](http://soartex.net/downloads/)
+
 ### How to submit your own textures:
 
 _This requires moderate git/Github knowledge; if you need any help, feel free to contact us._
