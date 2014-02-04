@@ -3,9 +3,6 @@ armor.overalls.png
 borehead.diamond.png
 borehead.iron.png
 borehead.steel.png
-buildcraft.gate.trigger.temp.cold.png
-buildcraft.gate.trigger.temp.hot.png
-buildcraft.gate.trigger.temp.warm.png
 cart.bore.png
 cart.gift.png
 cart.loco.steam.primary.png
