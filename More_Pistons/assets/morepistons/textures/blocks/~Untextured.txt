@@ -1,3 +1,0 @@
-super_bottom.png
-super_side.png
-super_top.png
