@@ -1,0 +1,4 @@
+# Need to find out what ores these are.
+tile.netherores.ore.1_0
+tile.netherores.ore.1_2
+tile.netherores.ore.1_4
