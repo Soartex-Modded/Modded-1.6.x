@@ -1,6 +1,0 @@
-bandwidth
-eject
-item_filter
-machine_filter
-speed
-thorough
