@@ -14,8 +14,8 @@ _This requires moderate git/Github knowledge; if you need any help, feel free to
 
 Note: People who wish to submit pull request please use one commit and max of two please. Thank you
 
-    * Fork this repository to your account.
-    * Commit all of your textures to your forked repository.
-    * Open a pull request from your repository to this one with a concise explanation of your changes.
-    * Wait for someone to review and merge your pull request.
-    * When your pull request has been merged, delete your fork to ensure current pull requests in the future.
+* Fork this repository to your account.
+* Commit all of your textures to your forked repository.
+* Open a pull request from your repository to this one with a concise explanation of your changes.
+* Wait for someone to review and merge your pull request.
+* When your pull request has been merged, delete your fork to ensure current pull requests in the future.
