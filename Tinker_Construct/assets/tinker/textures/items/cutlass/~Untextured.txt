@@ -4,15 +4,8 @@ emerald_cutlass_effect.png
 diamond_cutlass_effect.png
 flux_cutlass_effect.png
 ice_cutlass_effect.png
-lapis_cutlass_effect.png
 lava_cutlass_effect.png
-magicfabric_cutlass_effect.png
-moss_cutlass_effect.png
-necrotic_cutlass_effect.png
 piston_cutlass_effect.png
 quartz_cutlass_effect.png
-redstone_cutlass_effect.png
 reinforced_cutlass_effect.png
-silk_cutlass_effect.png
 smite_cutlass_effect.png
-spider_cutlass_effect.png

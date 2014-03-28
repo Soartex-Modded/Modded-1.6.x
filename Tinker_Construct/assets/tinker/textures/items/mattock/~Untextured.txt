@@ -1,17 +1,9 @@
 beheading_mattock_effect.png
 blaze_mattock_effect.png
-emerald_mattock_effect.png
-diamond_mattock_effect.png
 flux_mattock_effect.png
 ice_mattock_effect.png
-lapis_mattock_effect.png
-lava_mattock_effect.png
-magicfabric_mattock_effect.png
-necrotic_mattock_effect.png
 piston_mattock_effect.png
 quartz_mattock_effect.png
-redstone_mattock_effect.png
 reinforced_mattock_effect.png
-silk_mattock_effect.png
 smite_mattock_effect.png
 spider_mattock_effect.png

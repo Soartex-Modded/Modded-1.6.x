@@ -4,15 +4,10 @@ emerald_lumberaxe_effect.png
 diamond_lumberaxe_effect.png
 flux_lumberaxe_effect.png
 ice_lumberaxe_effect.png
-lapis_lumberaxe_effect.png
 lava_lumberaxe_effect.png
-magicfabric_lumberaxe_effect.png
-moss_lumberaxe_effect.png
-necrotic_lumberaxe_effect.png
 piston_lumberaxe_effect.png
 quartz_lumberaxe_effect.png
 redstone_lumberaxe_effect.png
 reinforced_lumberaxe_effect.png
-silk_lumberaxe_effect.png
 smite_lumberaxe_effect.png
 spider_lumberaxe_effect.png

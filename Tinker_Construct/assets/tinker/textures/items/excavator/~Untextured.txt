@@ -4,14 +4,10 @@ emerald_excavator_effect.png
 diamond_excavator_effect.png
 flux_excavator_effect.png
 ice_excavator_effect.png
-lapis_excavator_effect.png
 lava_excavator_effect.png
-magicfabric_excavator_effect.png
-necrotic_excavator_effect.png
 piston_excavator_effect.png
 quartz_excavator_effect.png
 redstone_excavator_effect.png
 reinforced_excavator_effect.png
-silk_excavator_effect.png
 smite_excavator_effect.png
 spider_excavator_effect.png

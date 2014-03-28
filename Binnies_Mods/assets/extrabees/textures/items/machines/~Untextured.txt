@@ -1,8 +1,3 @@
-serum.empty
-serumCaps
-serumEdges
-serumFilling
-serumOutline
 template.blank
 template.edge
 template.filling

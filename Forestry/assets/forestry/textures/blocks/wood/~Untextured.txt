@@ -1,8 +1,0 @@
-Logs:
-bark.balsa
-bark.greenheart
-bark.palm
-bark.plum
-bark.walnut
-
-tile]-143
