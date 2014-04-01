@@ -4,6 +4,4 @@ flux_pickaxe_effect.png
 ice_pickaxe_effect.png
 piston_pickaxe_effect.png
 quartz_pickaxe_effect.png
-reinforced_pickaxe_effect.png
 smite_pickaxe_effect.png
-spider_pickaxe_effect.png

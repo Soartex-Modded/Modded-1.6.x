@@ -4,9 +4,6 @@ emerald_rapier_effect.png
 diamond_rapier_effect.png
 flux_rapier_effect.png
 ice_rapier_effect.png
-lapis_rapier_effect.png
 lava_rapier_effect.png
 piston_rapier_effect.png
-redstone_rapier_effect.png
 smite_rapier_effect.png
-spider_rapier_effect.png

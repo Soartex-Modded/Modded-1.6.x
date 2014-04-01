@@ -3,7 +3,4 @@ blaze_pickmattock_effect.png
 flux_pickmattock_effect.png
 ice_pickmattock_effect.png
 piston_pickmattock_effect.png
-quartz_pickmattock_effect.png
-reinforced_pickmattock_effect.png
 smite_pickmattock_effect.png
-spider_pickmattock_effect.png

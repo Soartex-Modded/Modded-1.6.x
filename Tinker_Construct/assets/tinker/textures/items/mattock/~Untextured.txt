@@ -3,7 +3,4 @@ blaze_mattock_effect.png
 flux_mattock_effect.png
 ice_mattock_effect.png
 piston_mattock_effect.png
-quartz_mattock_effect.png
-reinforced_mattock_effect.png
 smite_mattock_effect.png
-spider_mattock_effect.png

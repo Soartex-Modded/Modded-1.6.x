@@ -4,11 +4,6 @@ emerald_dagger_effect.png
 diamond_dagger_effect.png
 flux_dagger_effect.png
 ice_dagger_effect.png
-lapis_dagger_effect.png
 lava_dagger_effect.png
 piston_dagger_effect.png
-quartz_dagger_effect.png
-redstone_dagger_effect.png
-reinforced_dagger_effect.png
 smite_dagger_effect.png
-spider_dagger_effect.png
