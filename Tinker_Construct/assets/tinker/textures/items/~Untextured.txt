@@ -1,11 +1,7 @@
 blankface
 blanksprite
-canister_empty
-canister_heart
-friedEgg
 metalball
 polishingstone
 potionlauncher
 redstoneball
 styonearmourstand
-tparts
