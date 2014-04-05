@@ -1,2 +1,1 @@
-goggles.png
 overalls.png
