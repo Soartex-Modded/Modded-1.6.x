@@ -1,4 +1,3 @@
-armor.goggles.png
 armor.overalls.png
 borehead.diamond.png
 borehead.iron.png
