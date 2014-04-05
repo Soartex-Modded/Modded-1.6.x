@@ -17,5 +17,5 @@ Note: People who wish to submit pull request please use one commit and max of tw
 * Fork this repository to your account.
 * Commit all of your textures to your forked repository.
 * Open a pull request from your repository to this one with a concise explanation of your changes.
-* Wait for someone to review and merge your pull request.
+* Wait for either artdude543, Shoeboxam or Goldbattle to review your request before merging.
 * When your pull request has been merged, delete your fork to ensure current pull requests in the future.
