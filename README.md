@@ -18,8 +18,7 @@ _We welcome support for any mod!_
 * Be careful to style your work to match the graphics in Soartex. We are happy to help newcomers!
 * Feel free to use any texture in the repository or vanilla Soartex, but do not claim them as your own
 * Mod names should be capitalized, separated by underscores and should not be abbreviated
-* If a mod makes format changes that deprecates textures but does not break support, leave the old files for a few months
-* A number of [texture templates, psd and xcf files, scripts and guides](https://github.com/Soartex-Modded/Templates) are available 
+* A number of [texture templates, psd and xcf files, scripts and guides](https://github.com/Soartex-Modded/Templates) are available.
 
 ### How to submit your own textures:
 
