@@ -26,7 +26,6 @@ ped2
 potions
 r_artifice
 r_aspects
-r_crucible
 r_enchant
 r_golemancy
 r_infernalfurnace
