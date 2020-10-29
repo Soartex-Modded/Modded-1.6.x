@@ -1,0 +1,9 @@
+{
+    "mod_name": "Factorization",
+    "mod_id": "factorization",
+    "mod_version": "0.8.107",
+    "mc_version": "1.7.10",
+    "url_website": "http://minecraftforum.net/topic/1351802-",
+    "description": "Auto-crafting, ore processing, barrels, and other tools",
+    "mod_dir": "/Factorization/"
+}

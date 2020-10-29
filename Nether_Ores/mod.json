@@ -1,0 +1,9 @@
+{
+    "mod_name": "Nether Ores",
+    "mod_id": "netherores",
+    "mod_version": "2.3.1",
+    "mc_version": "1.7.10",
+    "url_website": "http://minecraft.curseforge.com/mc-mods/netherores/",
+    "description": "Introduces mineable yet dangerous ores to the Nether",
+    "mod_dir": "/Nether_Ores/"
+}

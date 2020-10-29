@@ -26,3 +26,7 @@ Icon
 # Artifacts left by other applications
 # SyncToy
 SyncToy*
+.idea/
+
+# placeholder textures
+__default_*

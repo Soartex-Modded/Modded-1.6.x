@@ -1,0 +1,16 @@
+{
+    "mod_id": "tinkers-construct",
+    "mod_name": "Tinkers Construct",
+    "mod_filename": "TConstruct-1.7.10-1.8.6b.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "mDiyo",
+        "bonusboni",
+        "KnightMiner",
+        "Alexbegt"
+    ],
+    "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct",
+    "description": "Modify all the things, then do it again!",
+    "mod_version": "1.8.6b",
+    "mod_dir": "/Tinker_Construct/"
+}

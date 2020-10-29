@@ -1,0 +1,14 @@
+{
+    "mod_name": "GregTech-Addon",
+    "mod_id": "gregtech_addon",
+    "mod_version": "5.09",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "Gregorius Techneticies",
+        "Blood Asp"
+    ],
+    "url_website": "http://forum.industrial-craft.net/index.php?page=Thread&threadID=11488",
+    "description": "This Mod adds the awesome Technology of GregTech-Intergalactical to your World!",
+    "mod_filename": "bartworks1.7.10-0.5.13_pre2.jar",
+    "mod_dir": "/GregTech-Addon/"
+}
