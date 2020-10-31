@@ -1,0 +1,13 @@
+{
+    "mod_filename": "MFFS-2.5.0.zip",
+    "mod_id": "modular-forcefield-system",
+    "mod_name": "Modular Forcefield System",
+    "mc_version": "1.6.2",
+    "mod_authors": [
+        "Nekosune",
+        "Imalune"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/modular-forcefield-system",
+    "description": "Adds powerful Forcefields to Minecraft!",
+    "mod_dir": "/Modular_Forcefield_System/"
+}

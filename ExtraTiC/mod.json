@@ -1,0 +1,12 @@
+{
+    "mod_filename": "ExtraTiC-1.7.10-1.4.6.jar",
+    "mod_id": "extratic",
+    "mod_name": "ExtraTiC",
+    "mc_version": "1.6.4",
+    "mod_authors": [
+        "Glazzmaker"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/extratic",
+    "description": "Extra tools & weapons for tinkers' construct",
+    "mod_dir": "/ExtraTiC/"
+}

@@ -2,15 +2,16 @@
     "mod_id": "tinkers-construct",
     "mod_name": "Tinkers Construct",
     "mod_filename": "TConstruct-1.7.10-1.8.6b.jar",
-    "mc_version": "1.7.10",
+    "mc_version": "@MCVERSION@",
     "mod_authors": [
         "mDiyo",
-        "bonusboni",
-        "KnightMiner",
-        "Alexbegt"
+        "fuj1n",
+        "ProgWML6",
+        "Sunstrike",
+        "Pillbox"
     ],
-    "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct",
+    "url_website": "http://www.minecraftforum.net/topic/1659892-tinkers-construct",
     "description": "Modify all the things, then do it again!",
-    "mod_version": "1.8.6b",
+    "mod_version": "@VERSION@",
     "mod_dir": "/Tinker_Construct/"
 }

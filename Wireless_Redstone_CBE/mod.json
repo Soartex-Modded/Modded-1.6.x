@@ -1,0 +1,13 @@
+{
+    "mod_id": "wr-cbe-universal",
+    "mod_name": "WR-CBE-Universal",
+    "mod_filename": "WR-CBE-1.6.4-1.4.0.7-universal.jar",
+    "mc_version": "1.6.2",
+    "mod_authors": [
+        "ChickenBones"
+    ],
+    "url_website": "http://www.minecraftforum.net/topic/909223",
+    "description": "The combined WR-CBE mod",
+    "mod_version": "1.4.0.7",
+    "mod_dir": "/Wireless_Redstone_CBE/"
+}

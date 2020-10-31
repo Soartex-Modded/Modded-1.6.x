@@ -2,13 +2,13 @@
     "mod_id": "extrabiomesxl",
     "mod_name": "ExtrabiomesXL",
     "mod_filename": "ExtrabiomesXL-universal-1.7.10-3.16.RC3.jar",
-    "mc_version": "1.7.10",
+    "mc_version": "1.6.4",
     "mod_authors": [
         "annysia63",
         "Allaryin"
     ],
     "url_website": "http://www.minecraftforum.net/topic/1090288-",
     "description": "ExtrabiomesXL is a mod for Minecraft which adds new biomes that enhance game play and make exploring fun and interesting.",
-    "mod_version": "1.7.10-3.16.RC3",
+    "mod_version": "1.6.4-3.15.9",
     "mod_dir": "/ExtraBiomesXL/"
 }

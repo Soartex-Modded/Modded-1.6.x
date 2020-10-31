@@ -2,13 +2,12 @@
     "mod_id": "cofh-core",
     "mod_name": "CoFH Core",
     "mod_filename": "CoFHCore-[1.7.10]3.1.4-329.jar",
-    "mc_version": "1.7.10",
+    "mc_version": "1.6.4",
     "mod_authors": [
-        "TeamCoFH",
-        "KingLemmingCoFH"
+        "Team CoFH"
     ],
     "url_website": "http://www.teamcofh.com",
     "description": "Contains Core Functionality for all Team CoFH mods. Also does some really cool stuff on its own!",
-    "mod_version": "3.1.4",
+    "mod_version": "2.0.0.5",
     "mod_dir": "/Thermal_Expansion/"
 }

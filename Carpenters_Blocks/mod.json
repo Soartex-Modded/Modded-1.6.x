@@ -1,0 +1,14 @@
+{
+    "mod_id": "carpentersblocks",
+    "mod_name": "Carpenters Blocks",
+    "mod_filename": "Carpenter's Blocks v3.2.8.6 - MC 1.6.4.jar",
+    "mc_version": "1.6.4",
+    "mod_authors": [
+        "_ForgeUser7446961",
+        "Mineshopper"
+    ],
+    "url_website": "www.carpentersblocks.com",
+    "description": "Customize your Minecraft world.",
+    "mod_version": "3.2.8.6",
+    "mod_dir": "/Carpenters_Blocks/"
+}

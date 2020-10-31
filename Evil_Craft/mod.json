@@ -1,0 +1,14 @@
+{
+    "mod_id": "evilcraft",
+    "mod_name": "Evil Craft",
+    "mod_filename": "EvilCraft-1.11.2-0.10.30.jar",
+    "mc_version": "1.6.4",
+    "mod_authors": [
+        "rubensworks (aka kroeserr)",
+        "immortaleeb (aka _EeB_)"
+    ],
+    "url_website": "https://github.com/rubensworks/EvilCraft",
+    "description": "An evil mod for Minecraft.",
+    "mod_version": "0.4.1b",
+    "mod_dir": "/Evil_Craft/"
+}

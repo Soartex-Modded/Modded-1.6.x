@@ -1,0 +1,13 @@
+{
+    "mod_id": "cofhcore",
+    "mod_name": "CoFH Core",
+    "mod_filename": "CoFHCore-2.0.0.5.jar",
+    "mc_version": "1.6.4",
+    "mod_authors": [
+        "Team CoFH"
+    ],
+    "url_website": "http://www.teamcofh.com",
+    "description": "Contains Core Functionality for all Team CoFH mods. Also does some really cool stuff on its own!",
+    "mod_version": "2.0.0.5",
+    "mod_dir": "/CoFH_Core/"
+}
