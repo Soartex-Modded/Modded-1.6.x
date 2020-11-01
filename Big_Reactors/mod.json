@@ -1,0 +1,12 @@
+{
+    "mod_filename": "ExtremeReactors-1.9.4-0.4.5.6.jar",
+    "mod_id": "bigreactors",
+    "mod_name": "Extreme Reactors",
+    "mc_version": "1.6.4",
+    "mod_authors": [
+        "_ForgeUser23750043"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/big-reactors",
+    "description": "Big Reactors is a mod for Minecraft, built on the Forge modding platform.",
+    "mod_dir": "/Big_Reactors/"
+}

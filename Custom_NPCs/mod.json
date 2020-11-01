@@ -1,0 +1,13 @@
+{
+    "mod_id": "customnpcs",
+    "mod_name": "CustomNPCs",
+    "mod_filename": "CustomNPCs_1.6.2-1.6.4.zip",
+    "mc_version": "1.6.4",
+    "mod_authors": [
+        "Noppes_"
+    ],
+    "url_website": "http://tinyurl.com/customnpcs",
+    "description": "Create your own npcs and liven up your world or create your own adventure. Includes quests, a dialog system and a ton of items and blocks.",
+    "mod_version": "1.6.4",
+    "mod_dir": "/Custom_NPCs/"
+}

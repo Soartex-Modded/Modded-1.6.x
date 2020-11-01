@@ -1,0 +1,13 @@
+{
+    "mod_id": "redstone-arsenal",
+    "mod_name": "Redstone Arsenal",
+    "mod_filename": "RedstoneArsenal-1.0.0.0.jar",
+    "mc_version": "1.6.4",
+    "mod_authors": [
+        "Team CoFH"
+    ],
+    "url_website": "http://www.teamcofh.com",
+    "description": "Behold the Redstone (Flux) Revolution - adds a set of RF-Powered Armor and Tools to make your adventuring Fluxtastic!",
+    "mod_version": "1.0.0.0",
+    "mod_dir": "/Redstone_Arsenal/"
+}

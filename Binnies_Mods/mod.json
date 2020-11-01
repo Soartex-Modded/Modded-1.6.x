@@ -1,0 +1,14 @@
+{
+    "mod_filename": "forestry_1.7.10-4.0.6.34.jar",
+    "mod_id": "forestry",
+    "mod_name": "Forestry for Minecraft",
+    "mc_version": "1.6.4",
+    "mod_authors": [
+        "_ForgeUser9116757",
+        "mezz"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/binnies-mods",
+    "description": "Various expansions for Forestry adding new bees and trees",
+    "mod_version": "2.3.1.1 (703)",
+    "mod_dir": "/Binnies_Mods/"
+}

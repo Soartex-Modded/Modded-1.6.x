@@ -1,0 +1,13 @@
+{
+    "mod_id": "steves-carts-2",
+    "mod_name": "Steve's Carts 2",
+    "mod_filename": "StevesCarts2.0.0.b18.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "_ForgeUser7319596"
+    ],
+    "url_website": "",
+    "description": "Introducing modular carts to Minecraft. Let your carts mine, farm, get powered by sunlight, shoot mobs, craft items and much more.",
+    "mod_version": "2.0.0.b18",
+    "mod_dir": "/Steves_Carts/"
+}

@@ -1,0 +1,13 @@
+{
+    "mod_id": "security-craft",
+    "mod_name": "Security Craft",
+    "mod_filename": "SecurityCraft_v1.4.1_for_1.6.4.zip",
+    "mc_version": "1.6.4",
+    "mod_authors": [
+        "Lumien231"
+    ],
+    "url_website": "http://www.minecraftforum.net/topic/1832047-15x-random-things/",
+    "description": "Random Things adds various miscellaneous items and blocks to minecraft",
+    "mod_version": "1.9",
+    "mod_dir": "/Random_Things/"
+}

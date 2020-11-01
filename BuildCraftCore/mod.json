@@ -1,0 +1,15 @@
+{
+    "mod_id": "buildcraft-core",
+    "mod_name": "BuildCraft|Core",
+    "mod_filename": "buildcraft-7.1.22-core.jar",
+    "mc_version": "$mcversion",
+    "mod_authors": [
+        "Covert_Jaguar",
+        "AEnterprise",
+        "AlexIIL"
+    ],
+    "url_website": "http://www.mod-buildcraft.com/",
+    "description": "BuildCraft Core Module",
+    "mod_version": "$version",
+    "mod_dir": "/BuildCraftCore/"
+}

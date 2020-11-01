@@ -1,0 +1,12 @@
+{
+    "mod_filename": "ProjectE-1.7.10-PE1.7.0A.jar",
+    "mod_id": "projecte",
+    "mod_name": "ProjectE",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "SinKillerJ"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/projecte",
+    "description": "Equivalent Exchange 2 (EE2) for modern Minecraft versions.",
+    "mod_dir": "/ProjectE/"
+}

@@ -1,0 +1,12 @@
+{
+    "mod_filename": "Translocators-1.10.2-2.1.4.55-universal.jar",
+    "mod_id": "translocator",
+    "mod_name": "Translocator",
+    "mc_version": "1.6.4",
+    "mod_authors": [
+        "Chicken_Bones"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/translocators",
+    "description": "transfer items and fluids",
+    "mod_dir": "/Translocator/"
+}

@@ -1,0 +1,17 @@
+{
+    "mod_id": "ender-io",
+    "mod_name": "Ender IO",
+    "mod_filename": "EnderIO-1.7.10-2.3.0.428_beta.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "CrazyPants_MC",
+        "HenryLoenwind",
+        "tterrag1098",
+        "EpicSquid315",
+        "_ForgeUser20459859"
+    ],
+    "url_website": "http://enderio.com",
+    "description": "Ender IO",
+    "mod_version": "1.7.10-2.3.0.428_beta",
+    "mod_dir": "/Ender_IO/"
+}

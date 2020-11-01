@@ -1,0 +1,16 @@
+{
+    "mod_id": "openblocks",
+    "mod_name": "OpenBlocks",
+    "mod_filename": "OpenBlocks-1.10.2-1.7.1.jar",
+    "mc_version": "1.6.4",
+    "mod_authors": [
+        "Mikee",
+        "NeverCast",
+        "boq",
+        "Lyqyd"
+    ],
+    "url_website": "http://www.openperipheral.info",
+    "description": "Random collection of blocks. Some of which aren't blocks at all.",
+    "mod_version": "1.2.9",
+    "mod_dir": "/OpenBlocks/"
+}
